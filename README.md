@@ -2,6 +2,9 @@
 
 A Streamlit web application that allows you to chat with your SQL databases using natural language. This project leverages **LangChain** and **Groq's Llama 3** models to translate user queries into SQL, execute them against the database, and return a human-readable response.
 
+<img width="955" height="512" alt="Screenshot 2026-07-31 030653" src="https://github.com/user-attachments/assets/31a02a87-6545-4659-bcab-360adb1411ba" />
+
+
 ## Features
 
 - **Natural Language to SQL**: Ask questions in plain English and get answers directly from your database.
